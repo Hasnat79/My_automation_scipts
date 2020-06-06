@@ -1,3 +1,5 @@
+script_runner should be sourced to the bashrc file
+```source /home/hasnat/Documents/My_automation_scripts/script_runner.sh```
 Custom terminal functions:
 1. create [project name]
     -> at first you have to open a repo in github manually
