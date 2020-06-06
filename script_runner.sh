@@ -13,3 +13,6 @@ function create() {
     git push -u origin master
     code .
 }
+function off(){
+    shutdown -h now
+}
