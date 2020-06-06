@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 script_runner should be sourced to the bashrc file
 ```source /home/hasnat/Documents/My_automation_scripts/script_runner.sh```
 Custom terminal functions:
@@ -9,3 +10,4 @@ Custom terminal functions:
 2. off  
     ->turns off the pc instantly  
     
+
